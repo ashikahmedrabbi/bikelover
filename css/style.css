@@ -1,0 +1,88 @@
+/* ...............All Body ................
+.................................................*/
+*{
+    margin: 0;
+    padding: 0;
+}
+/* ...............header background ................
+.................................................*/
+.background{
+    background-color: #264653;
+    height: 100%;
+    width: 100%;
+}
+/* ...............header Button ................
+.................................................*/
+.button-color{
+    color:white;
+    background-color:#E76F51;
+    border: white;
+    border-radius:3px;
+    font-size: 16px;
+    padding: 5px 15px;
+}
+/* ...............Fetured Bikes Color text ................
+.................................................*/
+.color-text{
+    color:#E76F51;
+}
+/* ...............Fetured Bikes Hr ................
+.................................................*/
+.hr-style{
+    width: 60px;
+    margin-left: 47%;
+    color:#E76F51;
+  
+}
+/* ...............Fetured Bikes grayscale-image ................
+.................................................*/
+.grayscale-image{
+    filter: grayscale(100%);
+}
+/* ...............latest News ................
+.................................................*/
+.R-M-style-1{
+    border:2px solid #E76F51;
+    padding: 9px;
+    border-radius: 5px;
+    color:white;
+    background-color: #E76F51;
+    text-decoration: none;
+}
+.R-M-style{
+    border:2px solid #E76F51;
+    padding: 9px;
+    border-radius: 5px;
+    color:#E76F51;
+    text-decoration: none;
+}
+/* ...............latest News End ................
+.................................................*/
+
+/* ...............Clients Feedback ................
+.................................................*/
+.feedback-img{
+    width: 150px;
+    height: 150px;
+   align-items: center;
+}
+/* ...............Clients Feedback Icon................
+.................................................*/
+.fa-star{
+    color:#E76F51 ;
+    text-align: center;
+}
+/* ...............Footer ................
+.................................................*/
+.fot-cls{
+    background-color: black;
+    width: 100%;
+    height: 150px;
+}
+.fot-txt{
+    color:white;
+    padding-top: 75px; 
+    text-align: center;
+}
+
+/* ...........................All End......................... */
